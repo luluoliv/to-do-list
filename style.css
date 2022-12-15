@@ -67,11 +67,6 @@ body {
     align-items: center;
 }
 
-.checked{
-    color: #790505;
-    background-color: #757575;
-}
-
 .task-text {
     cursor: pointer;
     border-radius: 10px;
