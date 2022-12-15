@@ -1,6 +1,6 @@
 # To Do List 📋
 ## Informações Gerais 📋
-- [Lista de Tarefas 📌](https://luluoliv.github.io/to-do-list)
+- [Lista de Tarefas 📌](https://luluoliv.github.io/to-do-list/)
 - Utilizado Visual Studio Code
 - [Autor do código](https://github.com/luluoliv)
 ##
