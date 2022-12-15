@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;500;600;700&family=Mitr&family=Montserrat:wght@400;500&family=Noto+Sans&family=Outfit&family=Poppins&family=Press+Start+2P&family=Ubuntu:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    background-color: #252525;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.list {
+    display: relative;
+    margin: 90px auto;
+    height: fit-content;
+    width: fit-content;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: #efefef;
+}
+
+.list-function {
+    margin-top: 20px;
+}
+
+#name-task {
+    outline: none;
+    border: none;
+    padding: 10px;
+    width: 270px;
+    border-radius: 10px;
+    background-color: #e6e3e3;
+    box-shadow: 0.5px 2px 5.225px 0.225px rgb(190, 190, 190);
+}
+
+#btn-add {
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    width: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #428b70;
+    box-shadow: 0.5px 2px 5.225px 0.225px rgb(190, 190, 190);
+}
+
+.btn-add:hover {
+    background-color: #3e836b;
+}
+
+.btn-add:active {
+    background-color: #428b70;
+}
+
+.tasks {
+    margin-top: 40px;
+}
+
+.task {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checked{
+    color: #790505;
+    background-color: #757575;
+}
+
+.task-text {
+    cursor: pointer;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px;
+    width: 250px;
+    color: #000000;
+    font-size: 15px;
+    transition: all 0.1s ease;
+    background-color: #f8f8f8;
+    box-shadow: 0.5px 2px 5.225px 0.225px rgba(190, 190, 190, 0.438);
+}
+
+.task-edit {
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    width: 50px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #42478b;
+}
+
+.task-remove {
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    width: 40px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #8b4b42;
+}
+
+.task-text:hover {
+    transform: scale(1.01, 1.01);
+}
