@@ -1,5 +1,4 @@
 # To Do List 📋
-## General Information 🖌✏️
 - [To-Do List 📌](https://luluoliv.github.io/to-do-list/)
 - Used Visual Studio Code
 - [Author of code](https://github.com/luluoliv)
