@@ -1,18 +1,18 @@
 # To Do List 📋
-## Informações Gerais 📋
-- [Lista de Tarefas 📌](https://luluoliv.github.io/to-do-list/)
-- Utilizado Visual Studio Code
-- [Autor do código](https://github.com/luluoliv)
+## General Information 📋
+- [To-Do List 📌](https://luluoliv.github.io/to-do-list/)
+- Used Visual Studio Code
+- [Author of code](https://github.com/luluoliv)
 ##
 
-## Tecnologias ⚙️
+## Technologies ⚙️
 - HTML5
 - CSS3
 - JavaScript
 
-## Metas 📈
+## Goals 📈
 
-- [ ] Div para editar tarefa.
-- [ ] Marcar tarefa como concluída.
-- [ ] Área de tarefas concluídas.
+- [ ] Div to edit task.
+- [ ] Mark task as completed.
+- [ ] Area of ​​completed tasks.
 - [ ] localStorage.
