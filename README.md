@@ -6,7 +6,7 @@ You can try out the application by visiting the [To-Do List 📌](https://luluol
 
 To clone this repository and run the application on your local machine, follow these steps:
 
-1 - Clone this repository to your local machine using ```git clone https://github.com/luluoliv/to-do-list.git```.
+1 - Clone this repository to your local machine using ```git clone https://github.com/luluoliv/to-do-list.git```. </br>
 2 - Open the index.html file in your web browser. </br>
 3 - Start using the To-Do List application.
 
